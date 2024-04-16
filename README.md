@@ -4,5 +4,5 @@ Repositório para guardar o trabalho de Desenvolvimento Web. Este trabalho tem c
 
 
 ## 💻Desenvolvedores
-- Janderson Azevedo
-- Mayhara Moraes
+- [Janderson Azevedo](https://github.com/jandersonazevedo)
+- [Mayhara Moraes](https://github.com/gessycamayhara?tab=followers)
